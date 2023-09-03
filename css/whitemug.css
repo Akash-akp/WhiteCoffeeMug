@@ -83,6 +83,6 @@ button{
 
 @media screen  and (max-width:750px) {
     #container{
-        transform: translateY(-50%) translateX(-50%) scale(0.5) perspective(50px);
+        transform: translateY(-50%) translateX(-50%) scale(0.4) perspective(50px);
     }
 }
